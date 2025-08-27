@@ -244,7 +244,9 @@ export default function Home() {
 
 				<footer className="text-center mt-16 text-gray-500 text-sm">
 					<div className="border-t border-gray-200 pt-8">
-						<p style={{ fontFamily: "Georgia, serif" }}>by yalies</p>
+						<p style={{ fontFamily: "Georgia, serif" }}>
+							by yalies, for future yalies
+						</p>
 					</div>
 				</footer>
 			</div>
